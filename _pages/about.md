@@ -25,7 +25,7 @@ My research interest includes complex scene understanding and generative artific
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 1 paper accepted in ICLR 2025.
-- *2022.02*: &nbsp;🎉🎉 2 paper accepted in CVPR 2024. **(1 highlight ~2.8%[324/11532])**
+- *2024.03*: &nbsp;🎉🎉 2 paper accepted in CVPR 2024. **(1 highlight ~2.8%[324/11532])**
 
 # 📝 Publications 
 
@@ -66,10 +66,10 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 # 🎖 Honors and Awards
 - *2024* Huawei Special Scholarship (6/152)
-- *2022-2024* First-class Scholarship
+- *2022-2024* Postgraduate First-class Scholarship
 - *2022* Golden Prize in The 2020 International Genetically Engineered Machine Competition (iGEM)
-- *2019-2022* Campus Culture and Sports Awards
-- *2022* Second Place in Top Ten Singers Contest🎵 in Dalian University of Technology
+- *2019-2022* Campus Culture and Sports Awards at School Level
+- *2022* 🎵 Second Place in Top Ten Singers Contest in Dalian University of Technology
 
 # 📖 Educations
 - *2022.09 - now*, Persuing the M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
