@@ -35,27 +35,27 @@ My research interest includes complex scene understanding and generative artific
 
 [High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity](https://arxiv.org/pdf/2410.10105)
 **Qian Yu<sup>*</sup>**, Peng-Tao Jiang<sup>*</sup>, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu
-[**Code**](https://github.com/qianyu-dlut/DiffDIS) 
+[**Code**](https://github.com/qianyu-dlut/DiffDIS) \| ![](https://img.shields.io/github/stars/qianyu-dlut/DiffDIS?style=social)](https://github.com/qianyu-dlut/DiffDIS)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (Highlight)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (Highlight)</div><img src='images/CVPR24-MVNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-view Aggregation Network for Dichotomous Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Multi-view_Aggregation_Network_for_Dichotomous_Image_Segmentation_CVPR_2024_paper.pdf)
 **Qian Yu<sup>*</sup>**, Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Lihe Zhang, Huchuan Lu
 
-[**Code**](https://github.com/qianyu-dlut/MVANet) 
+[**Code**](https://github.com/qianyu-dlut/MVANet) \| ![](https://img.shields.io/github/stars/qianyu-dlut/MVANet?style=social)](https://github.com/qianyu-dlut/MVANet)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24-PBD-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline](https://arxiv.org/pdf/2312.02528v2)
 Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe Zhang, Hanqi Liu, Jiaming Zuo, Huchuan Lu
 
-[**Code**](https://github.com/Xiaoqi-Zhao-DLUT/X-ray-PBD) 
+[**Code**](https://github.com/Xiaoqi-Zhao-DLUT/X-ray-PBD) \| ![](https://img.shields.io/github/stars/Xiaoqi-Zhao-DLUT/X-ray-PBD?style=social)](https://github.com/Xiaoqi-Zhao-DLUT/X-ray-PBD)
 </div>
 </div>
 
