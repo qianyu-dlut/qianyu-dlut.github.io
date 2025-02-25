@@ -26,11 +26,11 @@ My research interest includes complex scene understanding and generative artific
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 1 paper accepted in ICLR 2025.
-- *2022.02*: &nbsp;🎉🎉 2 paper accepted in CVPR 2024. **(1 highlight ~3%[324/11532])**
+- *2022.02*: &nbsp;🎉🎉 2 paper accepted in CVPR 2024. **(1 highlight ~2.8%[324/11532])**
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/DiffDIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity](https://arxiv.org/pdf/2410.10105)
@@ -66,11 +66,23 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Huawei Special Scholarship (6/152)
+- *2022-2024* First-class Scholarship
+- *2022* Golden Prize in The 2020 International Genetically Engineered Machine Competition (iGEM)
+- *2019-2022* Campus Culture and Sports Awards
+- *2022* Second Place in Top Ten Singers Contest🎵 in Dalian University of Technology
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Persuing the M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
+- *2018.09 - 2022.06*, Received the B.E. in Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) (ranked in the top ~15% with a recommendation for postgraduate studies).
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIVO</div><img src='../images/vivo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**[Quality Enhancement Center](https://vivocamera.github.io/) | [VIVO Mobile Communication Co., Ltd.](https://www.vivo.com/)**
+- Advised by [Doc.Peng-Tao Jiang](https://pengtaojiang.github.io/)
+- Mar. 2024 - Oct. 2024
+</div>
+</div>
