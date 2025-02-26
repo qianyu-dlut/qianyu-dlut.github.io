@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Welcome! 
-I am currently in my third year as a postgraduate student majoring in [Information and Communication Engineering](https://ice.dlut.edu.cn/) at [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/), supervised by [Prof. Lihe Zhang](https://faculty.dlut.edu.cn/lhzhang/zh_CN/index.htm) and [Prof. Huchuan Lu (IEEE Fellow)](https://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm) from [IIAU-LAB](https://futureschool.dlut.edu.cn/wljsxy_old/IIAU.htm). Previously, I recieved bachelor's degree from [School of Computer Science and Technology](https://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/). In 2024, I had the privilege of serving as a Research Intern, under the guidance of [Dr. Peng-tao Jiang](https://pengtaojiang.github.io/) at [Quality Enhancement Center of VIVO](https://vivocamera.github.io/) in Hangzhou.
+Hi! I am Yu Qian (余谦), a third-year postgraduate student majoring in [Information and Communication Engineering](https://ice.dlut.edu.cn/) at [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/), supervised by [Prof. Lihe Zhang](https://faculty.dlut.edu.cn/lhzhang/zh_CN/index.htm) and [Prof. Huchuan Lu (IEEE Fellow)](https://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm) from [IIAU-LAB](https://futureschool.dlut.edu.cn/wljsxy_old/IIAU.htm). Previously, I received bachelor's degree from [School of Computer Science and Technology](https://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/). In 2024, I had the privilege of serving as a Research Intern, under the guidance of [Dr. Peng-tao Jiang](https://pengtaojiang.github.io/) at [Quality Enhancement Center of VIVO](https://vivocamera.github.io/) in Hangzhou.
 
 My research interest includes complex scene understanding and generative artificial intelligence. Currently I am seeking for **a PhD position for 2025/2026 fall**. If you are interested, please feel free to contact me! 😄
 
@@ -65,10 +65,10 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 
 # 🎖 Honors and Awards
-- *2024* Huawei Special Scholarship (6/152)
+- *2024* Huawei Special Scholarship (3/152)
 - *2022-2024* Postgraduate First-class Scholarship
 - *2022* Golden Prize in The 2020 International Genetically Engineered Machine Competition (iGEM)
-- *2019-2022* Campus Culture and Sports Awards at School Level
+- *2019-2022* Campus Culture and Sports Awards
 - *2022* 🎵 Second Place in Top Ten Singers Contest in Dalian University of Technology
 
 # 📖 Educations
