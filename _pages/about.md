@@ -81,7 +81,7 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 
 **[Quality Enhancement Center](https://vivocamera.github.io/) | [VIVO Mobile Communication Co., Ltd.](https://www.vivo.com/)**
-- Advised by [Doc.Peng-Tao Jiang](https://pengtaojiang.github.io/)
+- Advised by [Dr.Peng-Tao Jiang](https://pengtaojiang.github.io/)
 - Mar. 2024 - Oct. 2024
 </div>
 </div>
