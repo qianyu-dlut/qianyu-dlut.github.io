@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Welcome! 
-Hi! I am Yu Qian (余谦). I am currently completing my M.S. in Information and Communication Engineering at [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/), where I am supervised by [Prof. Lihe Zhang](https://faculty.dlut.edu.cn/lhzhang/zh_CN/index.htm) and [Prof. Huchuan Lu (IEEE Fellow)](https://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm) from [IIAU-LAB](https://futureschool.dlut.edu.cn/wljsxy_old/IIAU.htm). I will soon begin my PhD at [The University of Sydney](https://www.sydney.edu.au/), under the supervision of [Associate Professor Chang Xu](https://profiles.sydney.edu.au/c.xu/about). Previously, I received my bachelor's degree from the [School of Computer Science and Technology](https://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/).
+Hi! I am Yu Qian (余谦). I recently completed my M.S. in Information and Communication Engineering at [Dalian University of Technology (DUT)](https://www.dlut.edu.cn/), where I was supervised by [Prof. Lihe Zhang](https://faculty.dlut.edu.cn/lhzhang/zh_CN/index.htm) and [Prof. Huchuan Lu (IEEE Fellow)](https://faculty.dlut.edu.cn/Huchuan_Lu/zh_CN/index.htm) from [IIAU-LAB](https://futureschool.dlut.edu.cn/wljsxy_old/IIAU.htm). I will soon begin my PhD at [The University of Sydney](https://www.sydney.edu.au/), under the supervision of [Associate Professor Chang Xu](https://profiles.sydney.edu.au/c.xu/about). Previously, I received my bachelor's degree from the [School of Computer Science and Technology](https://cs.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/).
 
 My research interests include fine-grained visual perception and general-purpose multimodal large models. If you are interested in my work, please feel free to contact me! 😄
 
@@ -73,7 +73,7 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 # 📖 Educations
 - *Upcoming*, Incoming PhD student at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Associate Professor Chang Xu](https://profiles.sydney.edu.au/c.xu/about).
-- *2022.09 - now*, M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
+- *2022.09 - 2026*, M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
 - *2018.09 - 2022.06*, Received the B.E. in Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) (ranked in the top ~15% with a recommendation for postgraduate studies).
 
 # 💻 Internships
