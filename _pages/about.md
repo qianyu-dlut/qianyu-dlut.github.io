@@ -73,7 +73,7 @@ Xiaoqi Zhao<sup>*</sup>, Youwei Pang<sup>*</sup>, Zhenyu Chen, **Qian Yu**, Lihe
 
 # 📖 Educations
 - *Upcoming*, Incoming PhD student at [The University of Sydney](https://www.sydney.edu.au/), supervised by [Associate Professor Chang Xu](https://profiles.sydney.edu.au/c.xu/about).
-- *2022.09 - 2026*, M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
+- *2022.09 - 2025.06*, M.S. in Information and Communication Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) .
 - *2018.09 - 2022.06*, Received the B.E. in Computer Science and Technology at [Dalian University of Technology](https://www.dlut.edu.cn/) (ranked in the top ~15% with a recommendation for postgraduate studies).
 
 # 💻 Internships
